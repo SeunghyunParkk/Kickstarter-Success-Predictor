@@ -1,7 +1,7 @@
 # Kickstarter Success Predictor & Developing a Clustering Model
 
 ## Project Overview
-This project aims to predict the success of Kickstarter campaigns and develop a clustering model using machine learning models. The dataset includes a variety of features related to the campaign, which undergo preprocessing, feature selection, and finally, prediction using models like Gradient Boosting and Random Forest.
+This project aims to predict the success of Kickstarter campaigns using machine learning models and leverage clustering techniques to uncover shared patterns and key characteristics. The dataset includes a variety of features related to the campaign, which undergo preprocessing, feature selection, and finally, prediction using models like Gradient Boosting and Random Forest.
 
 ## Installation
 To run this project, you will need to install the following Python libraries:
