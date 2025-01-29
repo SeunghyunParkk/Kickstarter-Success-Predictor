@@ -3,18 +3,6 @@
 ## Project Overview
 This project aims to predict the success of Kickstarter campaigns using machine learning models and leverage clustering techniques to uncover shared patterns and key characteristics. The dataset includes a variety of features related to the campaign, which undergo preprocessing, feature selection, and finally, prediction using models like Gradient Boosting and Random Forest.
 
-## Installation
-To run this project, you will need to install the following Python libraries:
-- pandas
-- sklearn
-- numpy
-- statsmodels
-
-You can install these packages using pip:
-```bash
-pip install pandas scikit-learn numpy statsmodels
-```
-
 ## Dataset
 The code requires two Excel datasets named Kickstarter.xlsx and Kickstarter-Grading-Sample.xlsx. Ensure these files are in the same directory as the script or update the file paths in the script accordingly.
 
